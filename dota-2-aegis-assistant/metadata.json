@@ -1,0 +1,5 @@
+{
+  "name": "Dota 2 Aegis Assistant",
+  "description": "An advanced AI-powered Dota 2 draft assistant featuring real-time analysis, counter-picking suggestions, and meta insights using Gemini models.",
+  "requestFramePermissions": []
+}
